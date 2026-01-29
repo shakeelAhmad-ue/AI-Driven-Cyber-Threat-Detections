@@ -1,16 +1,16 @@
 # AI Cybersecurity Project ???
 
-## ?? Overview
+## Overview:
 This project is designed to detect cyber threats using Artificial Intelligence. It analyzes data patterns to identify potential security breaches or malicious activity.
 
-## ??? Requirements
+## Requirements:
 Before running the project, ensure you have **Python 3.x** installed. You may also need the following libraries:
 * pandas (for data handling)
 * scikit-learn (for AI models)
 * 
 umpy (for calculations)
 
-## ?? How to Run
+## How to Run?
 Follow these steps to get the project started:
 
 1. **Install Dependencies:**
@@ -25,7 +25,7 @@ Follow these steps to get the project started:
    python main.py
    \\\
 
-## ?? Project Structure
+## Project Structure:
 * \main.py\ - The entry point of the application.
 * \model/\ - Contains the trained AI models.
 * \data/\ - Dataset used for training and testing.
